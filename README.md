@@ -107,6 +107,6 @@ IRS. Tax Exempt Organization Search Bulk Data Downloads. https://www.irs.gov/
 
 *Thanks to the LA who helped in on the line about replacing the classification for binning. Mentioned I was using the wrong variable which is why I got the error. 
 
-*I had to research the types of layers, activations, checkpoints and overall get the idea of Keras. Those links are in the Starter copy notebook.
+*I had to research the types of layers, activations, checkpoints/call backs and overall get the idea of Keras. Those links are in the Starter copy notebook.
 
-*Created a copy since I forgot to create checkpoints on the first doc. I kept the original since I wanted to compare if creating checkpoints affects the accuracy of the model. 
+*Created a copy since I forgot to create checkpoints/call backs on the first doc. I kept the original since I wanted to compare if creating checkpoints affects the accuracy of the model. 
